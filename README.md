@@ -1,1 +1,5 @@
-# belajar-js
+# Belajar JavaScript
+---
+### HINTS
+
+## Objectives
